@@ -38,7 +38,9 @@
 
 #### 3）Bagging和Boosting算法
 
-#### 4）随机森林    5）Adaboost算法
+#### 4）随机森林    
+
+#### 5）Adaboost算法
 
 #### 6）GBDT算法
 
