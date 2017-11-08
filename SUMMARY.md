@@ -1,6 +1,5 @@
-# 目录
+# Summary
 
-# [数学基础](/Mathematical basis.md)
-
-
+* [Introduction](README.md)
+* [Mathematical basis](mathematical-basis.md)
 
