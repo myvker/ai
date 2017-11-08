@@ -14,5 +14,7 @@
 
 #### [http://open.163.com/movie/2012/2/3/C/M8FH262HJ\_M8FTVDQ3C.html](http://open.163.com/movie/2012/2/3/C/M8FH262HJ_M8FTVDQ3C.html)
 
+#### [http://open.163.com/special/opencourse/daishu.html](http://open.163.com/special/opencourse/daishu.html)
+
 
 
